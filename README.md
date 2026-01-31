@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" 
 alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" height="40" 
+alt="postgres logo" />
 </div>
 
 ###
