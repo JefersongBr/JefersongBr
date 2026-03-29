@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Olá! Sou estudante de Sistemas de Informação  <br>💻 Foco em programação e desenvolvimento de sistemas  <br>🐍 Estudando Python, JS, TS, banco de dados  <br>🚀 Sempre buscando evoluir e aprender mais</p>
+<p align="left">👋 Olá! Sou estudante de Sistemas de Informação  <br>💻 Foco em programação e desenvolvimento de sistemas  <br> Estudando C-sharp, JS, banco de dados  <br>🚀 Sempre buscando evoluir e aprender mais</p>
 
 ###
 
@@ -19,14 +19,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" 
-alt="SQLite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
 </div>
 
