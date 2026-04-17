@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is: Jeferson Micael.<br>From: Brazil | SP.</p>
+<p align="left">Meu nome e: Jeferson Micael.<br> Brazil | SP.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Study's</h2>
+<h2 align="left">Estudos</h2>
 
 ###
 
